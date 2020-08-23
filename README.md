@@ -3,7 +3,7 @@
 <p align="center">
     <a href=https://alexgarbiak.com target="blank"><img align="center" alt="alexgarbiak.com" width="30px" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
     <a href=https://linkedin.com/in/garbiak target="blank"><img align="center" alt="Alexander Garbiak | LinkedIn" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-    <a href=https://youtube.com/UCmjaEhArJiBnwyjl-xYvJdw target="blank"><img align="center" alt="Alex Garbiak | YouTube" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
+    <a href=https://youtube.com/channel/UCmjaEhArJiBnwyjl-xYvJdw target="blank"><img align="center" alt="Alex Garbiak | YouTube" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
     <a href="mailto:contact@alexgarbiak.com"><img align="center" alt="Alex Garbiak | YouTube" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
 </p>
 
