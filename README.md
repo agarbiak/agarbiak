@@ -25,11 +25,15 @@
 <img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Hugo" width="40px" height="40px" src="https://api.iconify.design/logos-hugo.svg" />
 <img align="left" alt="SQL" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Blender" width="40px" height="40px" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" />
-<img align="left" alt="Hugo" width="40px" height="40px" src="https://api.iconify.design/logos-hugo.svg" />
 
 <br />
+<br />
+
+### Playing 🎧
+
+[<img src="https://spotify-now-playing.agarbiak.vercel.app/api/spotify-playing" alt="Garbiak Spotify Playing" width="350" />](https://open.spotify.com/user/garbiak)
