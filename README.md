@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
+<h1 align="center">Alexander Garbiak</h1>
 
 <p align="center">
     <a href=https://alexgarbiak.com target="blank"><img align="center" alt="alexgarbiak.com" width="30px" height="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
@@ -7,7 +7,7 @@
     <a href="mailto:contact@alexgarbiak.com"><img align="center" alt="Alex Garbiak | YouTube" width="30px" height="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftoutlook.svg" /></a>
 </p>
 
-<h3 align="center">👨‍🔬 An actuary with some creativity 👨‍🎨</h3>
+<h3 align="center">👨‍🔬 A curious actuary 👨‍🎨</h3>
 
 <p align="left">
     <a href=https://alexgarbiak.com target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Falexgarbiak.com" alt="Alexander Garbiak | Website" /></a>
