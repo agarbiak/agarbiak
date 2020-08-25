@@ -36,4 +36,4 @@
 
 ### Playing 🎧
 
-[<img src="https://spotify-now-playing.agarbiak.vercel.app/api/spotify" alt="Garbiak Spotify Playing" width="350" />](https://open.spotify.com/user/garbiak)
+[<img src="https://spotify-playing.agarbiak.vercel.app/api/spotify" alt="Garbiak Spotify Playing" width="350" />](https://open.spotify.com/user/garbiak)
