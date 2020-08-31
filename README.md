@@ -14,7 +14,7 @@
     <img src="https://komarev.com/ghpvc/?username=agarbiak&color=brightgreen" alt="agarbiak" />
 </p>
 
-- 🔭 I’m currently working on a [presentation](https://alexgarbiak.github.io/presentations/intro-to-r-for-cs1.html#/) that introduces R for [CS1](https://www.actuaries.org.uk/studying/curriculum/actuarial-statistics) actuaries
+- 🔭 I’m currently looking at using React and APIs - see demo [website](https://imperfectlyvertical.web.app) for an artist
 
 - 👨‍💻 My projects are available at the [agarbiak](https://github.com/agarbiak?tab=repositories) and [alexgarbiak](https://github.com/alexgarbiak?tab=repositories) repos
 
@@ -25,6 +25,7 @@
 <img align="left" alt="HTML5" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Hugo" width="40px" height="40px" src="https://api.iconify.design/logos-hugo.svg" />
 <img align="left" alt="SQL" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="40px" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
