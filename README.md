@@ -11,10 +11,9 @@
 
 <p align="left">
     <a href=https://alexgarbiak.com target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Falexgarbiak.com" alt="Alexander Garbiak | Website" /></a>
-    <img src="https://komarev.com/ghpvc/?username=agarbiak&color=brightgreen" alt="agarbiak" />
 </p>
 
-- 🔭 I’m currently looking at using React and APIs - see demo [website](https://imperfectlyvertical.web.app) for an artist
+- 🔭 I’m currently messing around with `R` as well as web dev - latest project on [Turing machines in R](https://github.com/agarbiak/tuRingMachine) is based on Roger Penrose's book [The Emperor's New Mind](https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind)
 
 - 👨‍💻 My projects are available at the [agarbiak](https://github.com/agarbiak?tab=repositories) and [alexgarbiak](https://github.com/alexgarbiak?tab=repositories) repos
 
